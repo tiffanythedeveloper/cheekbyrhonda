@@ -1,0 +1,383 @@
+
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+
+body {
+font-family: 'Fjalla One', sans-serif;
+	   background-image:url("img/_xoo_xoo.me_www_template_15191_p17ugjc2uckr4rgq1rnpv91rri5.jpg");
+	color: #939090;
+}
+
+h1,h2,h3,h4{
+margin-top:8px;
+	margin-bottom: 0
+}
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 1124px;
+}
+ .logo {
+        height: 139px;
+        margin-top: 0px;
+        margin-left: 24.397065%;
+        clear: none;
+        width: 50%;
+    }
+
+.logo {
+    float: left;
+    height: 192px;
+    margin-left: 0%;
+    margin-top: 5px;
+    clear: none;
+    width: 21.954237%;
+    background-image:url("img/rhonda_cheek_blk.png");
+    background-attachment: scroll;
+    -webkit-background-size: 100% 110%;
+    background-size: 100% 110%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+.nav {
+    float: left;
+    height: 81px;
+    margin-left: 12.177491%;
+    margin-top: 65px;
+    clear: none;
+    width: 65.865492%;
+
+} 
+.nav ul li {
+    display: inline;
+    padding-right:70px;
+    text-transform: uppercase;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.nav a {
+    text-decoration: none;
+    color: rgb(160, 2, 50);
+    font-weight: 700;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1.3em;
+}
+
+.nav ul li a:active {
+    text-decoration: none;
+    color:#000;
+}
+
+.box {
+    float: left;
+    height: 740px;
+    margin-left: 0%;
+    margin-top: 70px;
+    clear: none;
+    width: 1124px;
+}
+
+.navigation {
+    position: relative;
+    left: 10px;
+    margin-top: 30px;
+}
+
+ul {
+list-style-type: none;
+}
+
+.box1 {
+    float: left;
+    height: 634px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 48.798932%;
+    background-color: rgb(216, 216, 216);
+}
+
+.titleWrapper {
+    float: left;
+    height: 72px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+}
+
+.map {
+    float: left;
+    height: 386px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(154, 180, 216);
+}
+
+.contactDetiails {
+    float: left;
+    height: 156px;
+    margin-left: 0%;
+    margin-top: 20px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(123, 123, 123);
+}
+
+.FORM {
+    float: left;
+    height: 539px;
+    margin-left: 2.399355%;
+    margin-top: 1px;
+    clear: none;
+    width: 48.801713%;
+    background-color: rgb(142, 142, 142);
+}
+
+.nameWrapper {
+    float: left;
+    height: 98px;
+    display: block;
+    text-align: left;
+    margin-left: -0.07690993%;
+    margin-top: 43px;
+    clear: none;
+    width: 100.07691%;
+}
+
+.name {
+    float: none;
+    height: 60px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+}
+
+.text1 {
+    float: none;
+    font-size: 1em;
+	
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 1em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+}
+
+.emailWrapper {
+    float: left;
+    height: 98px;
+    display: block;
+    text-align: left;
+    margin-left: 0.00284852%;
+    margin-top: 0px;
+    clear: both;
+    width: 99.997151%;
+    margin-right: 0%;
+}
+
+.text2 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+    min-height: 16.375px;
+    margin-top: 6px;
+    margin-left: 0%;
+    clear: none;
+}
+
+.email {
+    float: none;
+    height: 60px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+    margin-top: -6px;
+    margin-left: 0%;
+    clear: none;
+}
+
+.textAreaWrapper {
+    float: left;
+    height: 212.375px;
+    display: block;
+    text-align: left;
+    margin-left: -0.07690993%;
+    margin-top: 0px;
+    clear: both;
+    width: 100.07691%;
+    margin-right: 0%;
+}
+
+.text3 {
+    float: none;
+    font-size: 1em;
+    width: auto;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    padding-top: 0.2em;
+    padding-bottom: 0.2em;
+    padding-left: 0em;
+    padding-right: 0em;
+    display: block;
+}
+
+.message {
+    float: none;
+    height: 190px;
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+    font-size: 1em;
+    display: block;
+    width: 100%;
+}
+
+.send {
+    float: left;
+    height: 46px;
+    margin-left: 69.919672%;
+    margin-top: 18.25px;
+    clear: both;
+    width: 30.051843%;
+    background-color: rgb(154, 180, 216);
+}
+
+.text {
+    float: left;
+    font-size: 3em;
+    width: 100%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    min-height: 56px;
+}
+
+.facebook-DEATAILS {
+    float: left;
+    height: 77px;
+    margin-left: -48.839246%;
+    margin-top: 557px;
+    clear: none;
+    width: 48.839246%;
+    background-color: rgb(154, 180, 216);
+}
+
+.text4 {
+    float: left;
+    font-size: 1em;
+    width: 67.485187%;
+    height: auto;
+    text-align: left;
+    font-weight: normal;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 36px;
+    clear: none;
+    min-height: 19px;
+}
+
+.textspan {
+    float: none;
+    font-size: 1.2em;
+    line-height: 1em;
+}
+
+@media only screen and (max-width: 720px) {
+    .primaryContainer {
+        width: 1124px;
+    }
+
+    .box {
+        width: 1124px;
+    }
+}
+
+@media only screen and (max-width: 468px) {
+    .box {
+        width: 98%;
+        height: 1300px;
+    }
+
+    .primaryContainer {
+        width: 98%;
+    }
+
+    .FORM {
+        margin-top: 30px;
+        margin-right: 0%;
+        margin-left: 0%;
+        clear: both;
+        width: 100%;
+        height: 539px;
+    }
+
+    .facebook-DEATAILS {
+        margin-top: 9px;
+        margin-left: 0%;
+        clear: both;
+        margin-right: 0%;
+        width: 100%;
+    }
+
+    .text4 {
+        margin-top: 0px;
+        margin-right: 0%;
+        margin-left: 0%;
+        width: 97.990448%;
+        clear: both;
+        height: auto;
+    }
+
+    .box1 {
+        width: 99.992502%;
+    }
+}
+
+.footer {
+    float: left;
+    height: 287px;
+    margin-left: 0%;
+    margin-top: 24px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(64, 64, 64);
+-webkit-box-shadow: inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+-moz-box-shadow:    inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+box-shadow:         inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+}

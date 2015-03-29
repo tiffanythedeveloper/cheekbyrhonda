@@ -1,0 +1,453 @@
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One);
+@import url(http://fonts.googleapis.com/css?family=Yanone+Kaffeesatz:400,300,200,700);
+body {
+font-family: 'Yanone Kaffeesatz', sans-serif;
+	color: #939090;
+}
+
+h1,h2,h3,h4{
+margin-top:8px;
+	margin-bottom: 0
+}
+p{margin-top: 8px;}
+
+
+.primaryContainer {
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    min-height: 100%;
+    width: 1124px;
+}
+
+.logo {
+    float: left;
+    height: 192px;
+    margin-left: 0%;
+    margin-top: 5px;
+    clear: none;
+    width: 21.954237%;
+    background-image:url("img/rhonda_cheek_blk.png");
+    background-attachment: scroll;
+    -webkit-background-size: 100% 110%;
+    background-size: 100% 110%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+.nav {
+    float: left;
+    height: 81px;
+    margin-left: 12.177491%;
+    margin-top: 65px;
+    clear: none;
+    width: 65.865492%;
+
+} 
+.nav ul li {
+    display: inline;
+    padding-right:70px;
+    text-transform: uppercase;
+    list-style-type: none;
+    font-weight: 600;
+}
+
+.nav a {
+    text-decoration: none;
+    color: rgb(160, 2, 50);
+    font-weight: 700;
+	text-shadow: 0 0 1px rgba(255,255,255,0.3);
+	font-size: 1.3em;
+}
+
+.nav ul li a:active {
+    text-decoration: none;
+    color:#000;
+}
+
+.slideContainer {
+    float: left;
+    height: 437px;
+    margin-left: 0%;
+    margin-top: 23px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+}
+
+.slideImages {
+    float: left;
+    height: 437px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(180, 180, 180);
+		background-image: url('img/banner.jpg');
+}
+
+.likeButton {
+    float: left;
+    height: 30px;
+    z-index: 2;
+    margin-left: 90.019226%;
+    margin-top: 386px;
+    clear: none;
+    width: 7.579041%;
+    background-color: rgb(202, 7, 71);
+}
+
+.card1 {
+    float: left;
+    height: 564px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 31.610684%;
+    margin-right: 0%;
+}
+
+.card1Title {
+    float: left;
+    height: 50px;
+  padding-right: 10px;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+	font-size: large;
+
+  
+}
+
+
+
+.cardCaption {
+    float: left;
+    height: 132px;
+    margin-left: 0%;
+    
+    clear: both;
+    width: 100%;
+ color: #b5b5b5;
+}
+
+.cardCaption h4{
+color: rgb(202, 7, 71);;
+}
+.cardBtn {
+    float: left;
+    height: 54px;
+    margin-left: 0%;
+    margin-top: 9px;
+    clear: both;
+    width: 42.835161%;
+   background-color: rgb(202, 7, 71);
+	border-radius:3px;
+	text-align: center;
+	  line-height: 53px;
+	font-size:20px;
+	color: white;
+	transition: ease all .3s;
+}
+
+.cardBtn:hover {
+ 
+   background-color: rgb(160, 2, 50);
+	
+}
+
+
+.card3 {
+    float: left;
+    height: 564px;
+    margin-left: 2.377172%;
+    margin-top: 0px;
+    clear: none;
+    width: 31.788742%;
+    display: block;
+    margin-right: 0%;
+}
+
+
+
+
+
+
+
+.card2 {
+    float: left;
+    height: 564px;
+    margin-left: 2.556818%;
+    margin-top: 0px;
+    clear: none;
+    width: 31.638536%;
+    display: block;
+    margin-right: 0%;
+}
+
+.box {
+    float: left;
+    height: 70px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: none;
+    width: 100%;
+    background-color: rgb(209, 209, 209);
+}
+
+
+
+.footer {
+    float: left;
+    height: 287px;
+    margin-left: 0%;
+    margin-top: 24px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(64, 64, 64);
+}
+
+body {
+    background-image:url("img/_xoo_xoo.me_www_template_15191_p17ugjc2uckr4rgq1rnpv91rri5.jpg");
+    background-attachment: fixed;
+    -webkit-background-size: 100% 110%;
+    background-size: 100% 110%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+.section1 {
+    float: left;
+    height: 622px;
+    margin-left: 0.17793594%;
+    margin-top: 27px;
+    clear: both;
+    width: 99.822064%;
+}
+
+.text {
+    float: left;
+    font-size: 2em;
+    width: auto;
+    color:rgb(202, 7, 71);
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 10px;
+    padding-left:15px;
+    clear: none;
+    min-height: 0px;
+}
+
+.text1 {
+    float: left;
+    font-size: 2em;
+    width: auto;
+    color:rgb(202, 7, 71);
+    height: auto;
+    text-align: left;
+    font-weight: 400;
+    line-height: 1em;
+    margin-left: 0%;
+    margin-top: 10px;
+    clear: none;
+    min-height: 0px;
+    padding-left:15px;
+}
+
+.card1Img {
+    float: left;
+    height: 258px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(60, 60, 60);
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 100%;
+    background-size: 100% 100%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+	transition: ease all .4s;
+}
+
+.card2Img {
+    float: left;
+    height: 258px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(60, 60, 60);
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 100%;
+    background-size: 100% 100%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+	transition: ease all .4s;
+}
+
+.card3Img {
+    float: left;
+    height: 258px;
+    margin-left: 0%;
+    margin-top: 0px;
+    clear: both;
+    width: 100%;
+    background-color: rgb(60, 60, 60);
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 100%;
+    background-size: 100% 100%;
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+	transition: ease all .4s;
+}
+
+.card1Img:hover {
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 110%;
+    background-size: 110% 110%;
+    background-color: rgb(60, 60, 60);
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+.card2Img:hover {
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 110%;
+    background-size: 110% 110%;
+    background-color: rgb(60, 60, 60);
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+.card3Img:hover {
+    background-image:url("img/image7.jpeg");
+    background-attachment: scroll;
+    -webkit-background-size: 110%;
+    background-size: 110% 110%;
+    background-color: rgb(60, 60, 60);
+    background-position: 0% 0%;
+    background-repeat: no-repeat no-repeat;
+}
+
+@media only screen and (max-width: 768px) {
+    .primaryContainer {
+        width: 98%;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .primaryContainer {
+        width: 90%;
+    }
+
+    .slideContainer {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        height: 332px;
+    }
+
+    .logo {
+        height: 139px;
+        margin-top: 0px;
+        margin-left: 24.397065%;
+        clear: none;
+        width: 50%;
+    }
+
+    .nav {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        width: 100%;
+        background-color: rgb(142, 142, 142);
+    }
+
+    .section1 {
+        margin-top: 30px;
+        margin-left: 0%;
+        clear: both;
+        height: 1663px;
+    }
+
+    .footer {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+        height: 206px;
+		-webkit-box-shadow: inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+-moz-box-shadow:    inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+box-shadow:         inset 0px 18px 12px -5px rgba(50, 50, 50, 1);
+    }
+
+    .likeButton {
+        margin-top: 252px;
+        margin-left: 59.690542%;
+        clear: none;
+        width: 34.240157%;
+        height: 57px;
+		border-radius: 5px;
+    }
+
+    .card3 {
+        margin-top: 30px;
+        margin-left: -0.1775491%;
+        clear: both;
+        margin-right: 0%;
+        width: 100.177549%;
+    }
+
+    .card2 {
+        margin-top: 30px;
+        margin-right: 0%;
+        margin-left: -0.1775491%;
+        clear: both;
+        width: 100.177549%;
+    }
+
+    .card1 {
+        width: 100%;
+    }
+
+    .slideImages {
+        height: 332px;
+		background-image: url('img/banner.jpg');
+		background-size: 160% 100%;
+    }
+
+    .box2 {
+        margin-top: 0px;
+        margin-left: 0%;
+        clear: both;
+    }
+}
+
+
+.navigation {
+    position: relative;
+    left: 10px;
+    margin-top: 30px;
+}
+
+ul {
+list-style-type: none;
+}
+
+.homebanner {
+    margin-left:-40px;
+    margin-top:-15px;
+}
+
+.slideshow li {
+    display:inline;
+	
+}
